@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALL_COUNTRIES_URL	src/App.js	/^const ALL_COUNTRIES_URL = 'https:\/\/travelbriefing.org\/countries.json';$/;"	n
+App	src/App.js	/^function App() {$/;"	f
+Click	src/App.js	/^					onClick={() => {$/;"	c
+CountriesMap	src/utils/countries.js	/^export const createCountriesMap = (countriesSubList) => {$/;"	c
+Country	src/countries.js	/^export const getCountry = ()=>{$/;"	c
+LocalStorage	src/utils/useLocalStorage.js	/^export const useLocalStorage = (key: string, defaultValue: any) => {$/;"	c
+Map	src/utils/countries.js	/^	const countriesMap = {};$/;"	c
+MutualNeighbors	src/utils/countries.js	/^export const getMutualNeighbors = (countriesMap) => {$/;"	c
+SIZE	src/App.js	/^const SIZE = 10;$/;"	n
+StorageValue	src/utils/useLocalStorage.js	/^    const getStorageValue = (key: string, defaultValue: any) => {$/;"	c
+SubList	src/utils/randomList.js	/^export const randomSubList = (size, source) => {$/;"	c
+for	src/utils/countries.js	/^		for (const neighbor of neighbors) {$/;"	f
+for	src/utils/countries.js	/^	for (const country of countriesSubList) {$/;"	f
+if	src/App.js	/^	if (!allCountries) {$/;"	f
+if	src/App.js	/^	if (allCountries && countriesSubList.length === 0) {$/;"	f
+if	src/reportWebVitals.js	/^  if (onPerfEntry && onPerfEntry instanceof Function) {$/;"	f
+if	src/utils/countries.js	/^			if (countriesMap[neighbor.name]) {$/;"	f
+if	src/utils/countries.js	/^		if (valid[countryName]) {$/;"	f
+if	src/utils/http.js	/^	if (request.status === 200) {$/;"	f
+if	src/utils/randomList.js	/^		if (!visited[randomIndex]) {$/;"	f
+while	src/utils/randomList.js	/^	while (size > 0) {$/;"	f
